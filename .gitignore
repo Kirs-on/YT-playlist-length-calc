@@ -1,0 +1,6 @@
+test_main.py
+credentials.json
+venv/
+__pycache__/
+.pytest_cache/
+api_key.txt
